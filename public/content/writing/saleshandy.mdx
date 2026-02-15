@@ -1,0 +1,244 @@
+---
+title: SalesHandy
+description: By Rishi Shah
+---
+
+SalesHandy is a sales engagement platform designed to simplify and streamline sales communication. It offers a variety of features including email tracking, email scheduling, mail merge, auto follow-up, and more. With SalesHandy, sales professionals can improve their productivity, increase their email open and reply rates, and ultimately close more deals. It's a great tool for anyone looking to streamline their sales process and improve their overall efficiency.
+
+### **Awards**
+
+- Featured by Google [Chrome Store](https://chrome.google.com/webstore/detail/free-email-tracker-by-sal/acfmebaomboldplijdpfepofggkocgnl)
+- G2 recognized Leader
+- G2 high performer - Asia, United Kingdom, Middle East & Africa
+- Total 525 SalesHandy Reviews - [4.7 out of 5](https://www.g2.com/products/saleshandy/reviews)
+- Rank #12 in the [Top Indian SaaS Companies](https://www.g2.com/best-software-companies/india) on G2
+
+![G2 - Top Indian SaaS Companies in 2023 ](/content/writing/saleshandy-1.jpg)
+
+---
+
+## Objective
+
+I joined the company as Lead Product Designer in 2018, three years after its inception in 2015. With their first stable release, they established thier position in the market, and now they are looking to tackle critical problems that our customers face, including email tracking late responses, email delivery, campaign auto-pause, email verification, scheduling, low trial-to-customer conversion rates, and high churn rates. With the 2.0 release, we aim to prioritise solving major customer issues to build trust, loyalty and retention.
+
+## Role and Responsibility
+
+1. Develop user personas to better understand your audience
+
+2. Enhance email deliverability for improved communication with customers
+
+3. Revamp the Chrome plugin to provide data-driven insights and boost sales productivity
+
+4. Streamline the email campaign process for a more user-friendly experience
+
+5. Increase awareness of error statuses to improve troubleshooting
+
+6. Improve UX copy to enhance clarity and build trust
+
+7. Reduce customer churn for sustained growth
+
+---
+
+## Persona
+
+- Refined ICP roles and responsibilities
+
+- Identifying factors that contribute to their success
+
+- Addressing their current sales or email marketing challenges
+
+- Fulfilling productivity needs to boost sales and revenue
+
+<Slider
+  images={[
+    { src: "/content/writing/saleshandy-2.jpg", alt: "" },
+    { src: "/content/writing/saleshandy-3.jpg", alt: "" },
+    { src: "/content/writing/saleshandy-4.jpg", alt: "" },
+    { src: "/content/writing/saleshandy-5.jpg", alt: "" },
+  ]}
+/>
+
+---
+
+## Chrome Plugin
+
+- Easily filter your emails with the quick filter option to find out which ones have been opened, clicked, replied to, or left untouched
+
+- User can use the date filter to view emails from specific dates or ranges.
+
+- Allow users check out activity history in the timeline view
+
+- Get a quick glance at email statistics such as the number of times opened, link clicks, and replies.
+
+<Slider
+  images={[
+    { src: "/content/writing/saleshandy-6.png", alt: "Before" },
+    { src: "/content/writing/saleshandy-7.png", alt: "Redesign" },
+    {
+      src: "/content/writing/saleshandy-8.png",
+      alt: "Recipient profile analytics",
+    },
+  ]}
+/>
+
+---
+
+## Email Schedule
+
+- Remembering complicated timezone values can be difficult for most users. To make it easier, we have implemented a city, state, and country search feature instead of relying on timezone values.
+
+- To avoid confusion, we have added a list of cities with their respective time zones so users can easily select the correct timezone. Additionally, we have included the current time in the timezone list for verification purposes.
+
+- To improve the calendar UI, we have added a hyperlink below the month and year for easy navigation.
+
+- We have also included a typeahead search functionality to make it easier for users to search for timezones using city, state, country, GMT values, and local values.
+
+**Achievements**
+
+- The new UI and timezone feature have received positive feedback from customers
+
+- Customers have expressed that this is one of the best timezone experiences they've encountered.
+
+<Slider
+  images={[
+    { src: "/content/writing/saleshandy-9.png", alt: "Old design" },
+    { src: "/content/writing/saleshandy-10.png", alt: "New design" },
+  ]}
+/>
+
+---
+
+## Self Block Research
+
+Users can utilize the self-block feature to prevent tracking of their own activity. They can also add personal emails to this list to block tracking for specific emails. The feature is auto activated when you install the chrome plugin.
+
+- Total 78 Users have uninstalled the plugin in July 2019
+
+- 35 users out of 78 uninstall the plugin because they can't get the email open notifications
+
+- 5 out of 35 users uninstall the plugin on the same day
+
+- At the end of July we only have 82 active users
+
+> **Brendan Hinids:**
+>
+> I just opened up the test email I sent to myself 1 minute ago, and I'm still not getting any notification that the email was opened, nor does it show in the email feed on the web portal.
+
+> **Veene**
+>
+> NPS rating: 0
+>
+> "it is showing my emails are unread when I know they have been read"
+
+### Solution:
+
+I noticed a problem where users were not aware of the self-block feature in our plugin, which resulted in them sending test emails to themselves to check if email tracking was working. This caused confusion and some users even uninstalled the plugin thinking it was a bug. To solve this, I created a message that appears when a user sends an email to themselves, informing them that the self-block feature is active and they cannot track their own email deliveries.
+
+[Research Data](https://drive.google.com/file/d/1TWe6GGcDjNajZXIMOmAfjWgnrqihPzWF/view?usp=sharing)
+
+---
+
+## UX Copy
+
+### **Problems**
+
+- Users are typing "My computer" or "Computer" in the source field instead or pasting "image URL" while they upload the image.
+
+- This issues faced in email, templates and email campaign modules
+
+- Displaying a separate popup for each error message can be overwhelming for the user.
+
+- Users are encountering multiple errors one after the other when trying to upload a CSV file, causing frustration and wasted time. For example, first the system notifies the user that XLSX files are not supported, then it indicates that no more than 20 columns are allowed, and finally, it identifies that merge tags are missing.
+
+- The sentences are unclear, the vocabulary is complex, and technical jargon is overused.
+
+### **Solution**
+
+- We are changing few labels in image popup as follows:
+
+- Source → Image URL with better placeholder
+
+- Dimensions → Image Width & Height
+
+- Instead of multiple popups, we now show a single popup with clear guidelines for all the errors.
+
+- We provide best practices and guidelines to help users fix all issues before retrying.
+
+- We simplify the language and provide clear context to ensure everyone can easily understand what to do.
+
+<Slider
+  images={[
+    { src: "/content/writing/saleshandy-11.png", alt: "Old Design" },
+    { src: "/content/writing/saleshandy-12.png", alt: "New Design" },
+    { src: "/content/writing/saleshandy-13.png", alt: "Old Design" },
+    { src: "/content/writing/saleshandy-14.png", alt: "New Design" },
+  ]}
+/>
+
+---
+
+## Growth Design
+
+**Problems**
+
+- The pricing packages lack value proposition as users do not receive extra credits or benefits with higher packages, which fails to convince them to upgrade.
+
+- The plan values are ineffective in encouraging users to opt for higher plans.
+
+- Center alignment hampers the readability of the content.
+
+- Charts and legends are unnecessary as they are used to represent complex data for clarity and authority. In our case, the verification results are simple and straightforward.
+
+- Copywriting issues like the note text that does not guarantee 100% deliverability can create a negative impact on users. Instead, it can be rephrased to provide a 99% guarantee to improve email deliverability.
+
+**Solution**
+
+- Use the [decoy effect](https://en.wikipedia.org/wiki/Decoy_effect) to encourage users to opt for higher plans that offer more value.
+
+- Improve readability by aligning content to the left.
+
+- Remove unnecessary elements that disrupt the user flow, such as the confirmation checkbox for non-refundable credits.
+
+- Set the best value package as the default selection for users.
+
+- Enhance the design to ensure a consistent user experience.
+
+- Rewrite messaging to communicate positive, empowering messages that build confidence in the product.
+
+**Achievements**
+
+- Increase the credit sales and usage from the 1st day of launch
+
+- Customers are started to choose higher package
+
+<Slider
+  images={[
+    { src: "/content/writing/saleshandy-15.png", alt: "Old design" },
+    { src: "/content/writing/saleshandy-16.png", alt: "Old design" },
+    { src: "/content/writing/saleshandy-17.png", alt: "New deisgn" },
+  ]}
+/>
+
+---
+
+## Extended 14-Day Trial Offer
+
+**Problem**
+
+- Out of 5283 users, 2753 users(**52%**) didn't send an email or campaign within 14 days trial period.
+
+**Solution**
+
+- We understand that some users may need more time to fully explore and experience our app. To accommodate their needs, we offer the option to extend the trial period by an additional 14 days.
+
+**Email Copy**
+
+Hi {First-Name},
+
+You registered for SalesHandy - but did not use the full potential of the first 14 days.
+
+I want to use this opportunity to offer a trial extension. How does that sound to you? We can also assist you in setting up the campaigns.
+
+Let me know if you are interested.
+
+Cheers!

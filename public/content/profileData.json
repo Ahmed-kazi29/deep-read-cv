@@ -1,0 +1,362 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "iamrishishah",
+    "displayName": "Rishi Shah",
+    "profession": "Visual Experience Designer",
+    "location": "Ahmedabad, India",
+    "pronouns": null,
+    "byline": "Visual Experience Designer in Ahmedabad, India",
+    "website": null,
+    "websiteURL": null,
+    "about": "\"Observer by habit, Designer by nature.\" That's me in a nutshell!\n\nI'm absolutely passionate about anything that connects with life - from everyday objects and products we use and buy, to advertising that inspires, marketing that creates moments, writing that tells a captivating story, and emotions that tie all of this together.\n\nI see the world from a different perspective and love to explore it from different angles. I don't just scratch the surface - I immerse myself in the design philosophies that make everything tick, and it's absolutely fascinating to me!",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Contact",
+      "Work Experience",
+      "Projects",
+      "Writing",
+      "Side Projects",
+      "Exhibitions",
+      "Speaking",
+      "Awards",
+      "Features",
+      "Volunteering",
+      "Education",
+      "Certifications",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "nAUTrgHmRipOKb0g9LWb",
+      "year": "2023",
+      "heading": "Crafting the Perfect Maintenance Screen",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "project",
+      "title": "Crafting the Perfect Maintenance Screen",
+      "company": null
+    },
+    {
+      "id": "5ymMNDOdqlfqt0OVqtnc",
+      "year": "2023",
+      "heading": "Intuitive In-App Purchase Flow for Scanner App",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "project",
+      "title": "Intuitive In-App Purchase Flow for Scanner App",
+      "company": null
+    }
+  ],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [
+    {
+      "id": "XPmL6yxtNZEQ2V9i7ImZ",
+      "year": "2023",
+      "heading": "How the lock icon can mislead you, UX Collective",
+      "url": "https://medium.com/user-experience-design-1/how-the-lock-icon-can-mislead-you-264832596502",
+      "collaborators": [],
+      "description": "The importance of iconography in communication and highlights how design adapts to changing user needs and preferences while keeping up with technological advancements.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3000,
+          "height": 1440,
+          "url": "/content/media/How-the-lock-icon-can-mislead-you-UX-Collective.jpg"
+        }
+      ],
+      "type": "writing",
+      "title": "How the lock icon can mislead you",
+      "publisher": "UX Collective"
+    },
+    {
+      "id": "JG2Bd69ET3IXqTiYCtCh",
+      "year": "2023",
+      "heading": "Arc browser’s “Peek” a simplified way of interacting with tabs, Bootcamp",
+      "url": "https://bootcamp.uxdesign.cc/arc-browsers-peek-simplified-way-of-interacting-with-tabs-6d1a17d4dab1",
+      "collaborators": [],
+      "description": "How The Browser Company’s new feature “Peek” was inspired by everyday objects and the satisfaction of opening and closing things.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 720,
+          "url": "/content/media/Arc-browsers-Peek-a-simplified-way-of-interacting-with-tabs-Bootcamp.jpg"
+        }
+      ],
+      "type": "writing",
+      "title": "Arc browser’s “Peek” a simplified way of interacting with tabs",
+      "publisher": "Bootcamp"
+    }
+  ],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "tsuOLa3T7kzsHc7mfe23",
+      "year": "2021 — Now",
+      "heading": "Lead Designer at SoluteLabs",
+      "url": "https://www.solutelabs.com/",
+      "collaborators": [],
+      "description": "Work for many startups and enterprise customers\n\n- Amagi\n- Derive\n- Live History India\n- Roche Japan\n- Roche India\n- Renee Cosmetics \n- XY ai\n- Tyne Tunnel\n- Socket Mobile",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Lead Designer",
+      "company": "SoluteLabs",
+      "location": "Remote"
+    },
+    {
+      "id": "XHnMIgm0vTN320OFOmrz",
+      "year": "2020 — 2021",
+      "heading": "Lead Product Designer at JobSquare",
+      "url": null,
+      "collaborators": [],
+      "description": "JobSquare is modern job platform that connects HR professionals and job seekers, facilitating the discovery of suitable job opportunities and ideal candidates.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Lead Product Designer",
+      "company": "JobSquare",
+      "location": "Ahmedabad"
+    },
+    {
+      "id": "PaT0KDj7Afb67v9dFWqW",
+      "year": "2018 — 2020",
+      "heading": "Sr. Product Designer at SalesHandy",
+      "url": "https://www.saleshandy.com/",
+      "collaborators": [],
+      "description": "- Design Research\n- Empathise user Behaviour\n- Define and Prioritise User and Business Goals\n- Defining standards of usability and accessibility across the product",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Sr. Product Designer",
+      "company": "SalesHandy",
+      "location": "Ahmedabad"
+    },
+    {
+      "id": "gL6PcMQBzX2eU47ey4GZ",
+      "year": "2016 — 2017",
+      "heading": "Sr. Interface Designer at Unlike Anything",
+      "url": null,
+      "collaborators": [],
+      "description": "I have successfully partnered with multiple startups to deliver exceptional results in branding, interface design, and user experience.\n\n- Reelo\n- Measure One\n- Food Memories\n- Polka Tots\n- Red Bracket\n- Free Copy",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Sr. Interface Designer",
+      "company": "Unlike Anything",
+      "location": "Ahmedabad"
+    },
+    {
+      "id": "sy935857M0vaemhCZwwD",
+      "year": "2011 — 2013",
+      "heading": "Graphic Designer at Uplers (Previously - Ensight Business Solution))",
+      "url": "https://www.uplers.com/",
+      "collaborators": [],
+      "description": "As a marketing professional, I initially underestimated the impact of design. However, as I worked more closely with it, I began to realize its potential in connecting with people and influencing their decisions. This realization ignited a passion in me to improve my graphic design skills. Through dedication and hard work, I have consistently produced high-quality email and website designs for the organization. I take pride in knowing that our designs have had a positive impact on our audience.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Graphic Designer",
+      "company": "Uplers (Previously - Ensight Business Solution))",
+      "location": null
+    }
+  ],
+  "volunteering": [],
+  "education": [],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "nel1I94RyWrd1Rra5S68",
+      "platform": "Medium",
+      "handle": "iamrishishah",
+      "url": "https://medium.com/@iamrishishah"
+    },
+    {
+      "id": "2XBi04ztWLT6EQCl5w49",
+      "platform": "LinkedIn",
+      "handle": "iamrishishah",
+      "url": "https://linkedin.com/in/iamrishishah"
+    },
+    {
+      "id": "VCVsMyNZKG4ng9PhtIA6",
+      "platform": "Figma",
+      "handle": "@iamrishishah",
+      "url": "https://figma.com/@iamrishishah"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "nel1I94RyWrd1Rra5S68",
+          "platform": "Medium",
+          "handle": "iamrishishah",
+          "url": "https://medium.com/@iamrishishah"
+        },
+        {
+          "id": "2XBi04ztWLT6EQCl5w49",
+          "platform": "LinkedIn",
+          "handle": "iamrishishah",
+          "url": "https://linkedin.com/in/iamrishishah"
+        },
+        {
+          "id": "VCVsMyNZKG4ng9PhtIA6",
+          "platform": "Figma",
+          "handle": "@iamrishishah",
+          "url": "https://figma.com/@iamrishishah"
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "tsuOLa3T7kzsHc7mfe23",
+          "year": "2021 — Now",
+          "heading": "Lead Designer at SoluteLabs",
+          "url": "https://www.solutelabs.com/",
+          "collaborators": [],
+          "description": "Work for many startups and enterprise customers\n\n- Amagi\n- Derive\n- Live History India\n- Roche Japan\n- Roche India\n- Renee Cosmetics \n- XY ai\n- Tyne Tunnel\n- Socket Mobile",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Lead Designer",
+          "company": "SoluteLabs",
+          "location": "Remote"
+        },
+        {
+          "id": "XHnMIgm0vTN320OFOmrz",
+          "year": "2020 — 2021",
+          "heading": "Lead Product Designer at JobSquare",
+          "url": "jobsquare",
+          "collaborators": [],
+          "description": "JobSquare is modern job platform that connects HR professionals and job seekers, facilitating the discovery of suitable job opportunities and ideal candidates.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Lead Product Designer",
+          "company": "JobSquare",
+          "location": "Ahmedabad"
+        },
+        {
+          "id": "PaT0KDj7Afb67v9dFWqW",
+          "year": "2018 — 2020",
+          "heading": "Sr. Product Designer at SalesHandy",
+          "url": "saleshandy",
+          "collaborators": [],
+          "description": "- Design Research\n- Empathise user Behaviour\n- Define and Prioritise User and Business Goals\n- Defining standards of usability and accessibility across the product",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Sr. Product Designer",
+          "company": "SalesHandy",
+          "location": "Ahmedabad"
+        },
+        {
+          "id": "gL6PcMQBzX2eU47ey4GZ",
+          "year": "2016 — 2017",
+          "heading": "Sr. Interface Designer at Unlike Anything",
+          "url": null,
+          "collaborators": [],
+          "description": "I have successfully partnered with multiple startups to deliver exceptional results in branding, interface design, and user experience.\n\n- Reelo\n- Measure One\n- Food Memories\n- Polka Tots\n- Red Bracket\n- Free Copy",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Sr. Interface Designer",
+          "company": "Unlike Anything",
+          "location": "Ahmedabad"
+        },
+        {
+          "id": "sy935857M0vaemhCZwwD",
+          "year": "2011 — 2013",
+          "heading": "Graphic Designer at Uplers (Previously - Ensight Business Solution))",
+          "url": "https://www.uplers.com/",
+          "collaborators": [],
+          "description": "As a marketing professional, I initially underestimated the impact of design. However, as I worked more closely with it, I began to realize its potential in connecting with people and influencing their decisions. This realization ignited a passion in me to improve my graphic design skills. Through dedication and hard work, I have consistently produced high-quality email and website designs for the organization. I take pride in knowing that our designs have had a positive impact on our audience.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Graphic Designer",
+          "company": "Uplers (Previously - Ensight Business Solution))",
+          "location": null
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "nAUTrgHmRipOKb0g9LWb",
+          "year": "2023",
+          "heading": "Crafting the Perfect Maintenance Screen",
+          "url": "maintenance-screen-for-tynetunnel",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "project",
+          "title": "Crafting the Perfect Maintenance Screen",
+          "company": null
+        },
+        {
+          "id": "5ymMNDOdqlfqt0OVqtnc",
+          "year": "2023",
+          "heading": "Intuitive In-App Purchase Flow for Scanner App",
+          "url": "5ymMNDOdqlfqt0OVqtnc",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "project",
+          "title": "Intuitive In-App Purchase Flow for Scanner App",
+          "company": null
+        }
+      ]
+    },
+    {
+      "name": "Writing",
+      "items": [
+        {
+          "id": "XPmL6yxtNZEQ2V9i7ImZ",
+          "year": "2023",
+          "heading": "How the lock icon can mislead you, UX Collective",
+          "url": "https://medium.com/user-experience-design-1/how-the-lock-icon-can-mislead-you-264832596502",
+          "collaborators": [],
+          "description": "The importance of iconography in communication and highlights how design adapts to changing user needs and preferences while keeping up with technological advancements.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3000,
+              "height": 1440,
+              "url": "/content/media/How-the-lock-icon-can-mislead-you-UX-Collective.jpg"
+            }
+          ],
+          "type": "writing",
+          "title": "How the lock icon can mislead you",
+          "publisher": "UX Collective"
+        },
+        {
+          "id": "JG2Bd69ET3IXqTiYCtCh",
+          "year": "2023",
+          "heading": "Arc browser’s “Peek” a simplified way of interacting with tabs, Bootcamp",
+          "url": "https://bootcamp.uxdesign.cc/arc-browsers-peek-simplified-way-of-interacting-with-tabs-6d1a17d4dab1",
+          "collaborators": [],
+          "description": "How The Browser Company’s new feature “Peek” was inspired by everyday objects and the satisfaction of opening and closing things.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 720,
+              "url": "/content/media/Arc-browsers-Peek-a-simplified-way-of-interacting-with-tabs-Bootcamp.jpg"
+            }
+          ],
+          "type": "writing",
+          "title": "Arc browser’s “Peek” a simplified way of interacting with tabs",
+          "publisher": "Bootcamp"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+---
+title: Crafting an Intuitive In-App Purchase Flow
+description: By Rishi Shah
+---
+
+I was tasked with designing the in-app purchase flow for a mobile scanning app. The client provided a rough flowchart of their desired requirements and outcomes. My goal was crafting an experience that reduced user confusion and friction.
+
+![](/content/writing/5ymMNDOdqlfqt0OVqtnc-1.png)
+
+- Client was Socket Mobile, who make barcode scanning devices
+
+- They wanted to add in-app purchases to their mobile app to enable subscriptions for scanner features
+
+- This was new functionality not in the current app
+
+- Client provided a rough flowchart of desired user flow
+
+- My role was to design an intuitive, user-centric purchase process
+
+---
+
+## Research and Discovery
+
+![](/content/writing/5ymMNDOdqlfqt0OVqtnc-2.jpg)
+
+I started by asking numerous questions to understand the broader context and user goals:
+
+- I started by asking questions to understand contexts and pain points:
+  - Do subscriptions work for both scanner devices or just in-app?
+
+  - How does activation work without requiring login?
+
+  - Impacts of removing device while subscribed?
+
+  - Any license ID needs?
+
+  - Benefits of subscribing vs not?
+
+  - Competitor landscape for devices/apps?
+
+  - Accessing subscription history and invoices?
+
+- Clarified unknowns through brainstorming exercises and discussions with stakeholders
+
+- Goal was aligning business goals with minimizing user confusion
+
+Brainstorming exercises and discussions clarified uncertainties and aligned business and user needs.
+
+---
+
+## My Design Approach
+
+![](/content/writing/5ymMNDOdqlfqt0OVqtnc-3.jpg)
+
+- Rapidly sketched concepts for different scenarios and use cases
+
+- Created lo-fi wireframes to test core user flows
+
+- Iterated on feedback from users and client collaboratively
+
+- Focused on ease of use but allowing flexibility in journey
+
+- Wrote supportive copy to provide clarity and build trust
+
+- Designed for visual consistency with brand style
+
+- Validated concepts through live prototyping
+
+---
+
+## Key Design Impacts and Wins
+
+<Slider
+  images={[
+    { src: "/content/writing/5ymMNDOdqlfqt0OVqtnc-4.jpg", alt: "" },
+    { src: "/content/writing/5ymMNDOdqlfqt0OVqtnc-5.jpg", alt: "" },
+    { src: "/content/writing/5ymMNDOdqlfqt0OVqtnc-6.jpg", alt: "" },
+    { src: "/content/writing/5ymMNDOdqlfqt0OVqtnc-7.jpg", alt: "" },
+    { src: "/content/writing/5ymMNDOdqlfqt0OVqtnc-8.jpg", alt: "" },
+    { src: "/content/writing/5ymMNDOdqlfqt0OVqtnc-9.jpg", alt: "" },
+    { src: "/content/writing/5ymMNDOdqlfqt0OVqtnc-10.jpg", alt: "" },
+    { src: "/content/writing/5ymMNDOdqlfqt0OVqtnc-11.jpg", alt: "" },
+    { src: "/content/writing/5ymMNDOdqlfqt0OVqtnc-12.jpg", alt: "" },
+    { src: "/content/writing/5ymMNDOdqlfqt0OVqtnc-13.jpg", alt: "" },
+    { src: "/content/writing/5ymMNDOdqlfqt0OVqtnc-14.jpg", alt: "" },
+    { src: "/content/writing/5ymMNDOdqlfqt0OVqtnc-15.jpg", alt: "" },
+    { src: "/content/writing/5ymMNDOdqlfqt0OVqtnc-16.jpg", alt: "" },
+  ]}
+/>
+
+1. Added option to skip app update prompt if unnecessary for current use case. This avoided forcing users to update if they only needed base app features. Gave flexibility.
+
+2. Consolidated license validation into one logical screen rather than two screens suggested by client. Checked both local and server status in one place to simplify process. Prevented extra steps.
+
+3. Designed clear and actionable messaging for handling errors during license check. Guided users to either retry or contact support rather than just show failure. Enabled easy recovery.
+
+4. Combined license authorization and confirmation of successful purchase into one streamlined screen. Prevented extra context switching between steps. Smooth flow.
+
+5. For payment failures, provided friendly guidance and a visible Retry button encouraging users to attempt purchase again. Avoided abandonment.
+
+By deeply understanding contexts and goals, I delivered an optimized purchase experience that exceeded initial expectations. The intuitive flow reduced abandonment while retaining flexibility.
+
+---
+
+### Key Takeaways:
+
+- Ask probing questions to reveal true needs
+
+- Rapidly ideate and test with users
+
+- Iterate based on feedback to remove friction
+
+- Build trust and clarity through thoughtful copy
+
+- Streamline alignments between business and user
